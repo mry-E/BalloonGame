@@ -1,4 +1,4 @@
-/* @pjs preload="image/haretu.png."; */
+/* @pjs preload="image/haretu.png"; */
 int scene = 1;
 
 float toriX, toriY;
